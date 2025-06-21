@@ -1,0 +1,17 @@
+name: "Default"
+author: PigeonGames
+hitFx: [5, 6]
+holdAtlas: [50, 50]
+holdAtlasMH: [98, 98]
+hitFxDuration: 0.5
+hitFxScale: 1.0
+hitFxRotate: false
+hitFxTinted: false
+hideParticles: false
+holdKeepHead: false
+holdRepeat: false
+holdCompact: false
+colorPerfect: 0xfffeffa9
+colorGood: 0xffa2eeff
+hitColorPerfect: 0xffffeca0
+hitColorGood: 0xffb4e1ff
